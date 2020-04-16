@@ -1,0 +1,6 @@
+[submodule "themes/identity"]
+	path = themes/identity
+	url = git@github.com:aerohub/hugo-identity-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:iglotov/iglotov.github.io.git
