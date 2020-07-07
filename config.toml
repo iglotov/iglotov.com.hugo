@@ -105,7 +105,7 @@ googleAnalytics = "UA-163774673-1"
   [[params.social]]
     title = "Telegram"
     icon = "fa-paper-plane-o"
-    link = "https://teleg.one/iglotov"
+    link = "https://t.me/iglotov"
     #target = "_blank"
 
   [[params.social]]
