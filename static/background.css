@@ -6,7 +6,7 @@ body {
     height: 100%;
     margin: 0;
     background-size: auto;
-    background-color: #aaaaaa;
+    background-color: #f8c471;
     background-image: url("images/overlay.png"), -moz-linear-gradient(0deg, rgba(192,192,192,1) 30%, rgba(128,128,128,1));
     background-image: url("images/overlay.png"), -webkit-linear-gradient(0deg, rgba(192,192,192,1) 30%, rgba(128,128,128,1));
     background-image: url("images/overlay.png"), -ms-linear-gradient(0deg, rgba(192,192,192,1) 30%, rgba(128,128,128,1));
