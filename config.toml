@@ -1,6 +1,6 @@
 baseURL = "https://iglotov.ru/"
 languageCode = "en-us"
-title = "Ilya Glotov"
+title = "Ilia Glotov"
 theme = "identity"
 
 # Disable unnecessary kinds
@@ -40,15 +40,16 @@ googleAnalytics = "UA-163774673-1"
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Ilya Glotov"
+    name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "sysadmin and devops guy"
-    livesIn = "[Tomsk, RU](https://goo.gl/maps/QWKG2Wzj5EEEeA9PA)"
+    position = "server reboot engineer"
+    livesIn = "[Tbilisi, GE](https://goo.gl/maps/R7sZHhUzWJVw4ZJT9)"
     scope = [
-        "DevOps engineer at [VseMayki.ru](https://vsemayki.ru)",
-        "Volunteer at [SAR Team \"LizaAlert\"](https://lizaalert.org)",
-        "Proud [father of three](https://xkcd.com/674/)"
+        "DevOps engineer at [SoftSwiss](https://www.softswiss.com/)",
+        "Proud [father of three](https://xkcd.com/674/)",
+        "ex-volunteer at the [SAR Team \"LizaAlert\"](https://lizaalert.org)",
+        "expat [((fuck the war, by the way))](https://en.wikipedia.org/wiki/2022_anti-war_protests_in_Russia#\"No_to_war!\")"
       ]
     biography = """ """
 
@@ -135,7 +136,7 @@ googleAnalytics = "UA-163774673-1"
   # Footer settings
   [params.footer]
     # If copyright is not set, author is used
-    copyright = "Ilya Glotov"
+    copyright = "Ilia Glotov"
 
   # Page license
   [params.license]
