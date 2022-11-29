@@ -109,10 +109,10 @@ googleAnalytics = "UA-163774673-1"
     link = "https://t.me/iglotov"
     #target = "_blank"
 
-  [[params.social]]
-    title = "Email"
-    icon = "fa-envelope-square"
-    link = "mailto:?to=writeme at iglotov.ru&subject=email from website&body=Please replace \" at \" with \"@\" in destination address. Thanks."
+  #[[params.social]]
+    #title = "Email"
+    #icon = "fa-envelope-square"
+    #link = "mailto:?to=writeme at iglotov.ru&subject=email from website&body=Please replace \" at \" with \"@\" in the recipient address. Thanks."
     #target = "_blank"
 
   [[params.social]]
