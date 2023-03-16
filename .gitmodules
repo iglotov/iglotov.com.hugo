@@ -1,4 +1,4 @@
-[submodule "themes/identity"]
+[submodule "themes/hugo-identity-theme"]
 	path = themes/hugo-identity-theme
 	url = git@github.com:aerohub/hugo-identity-theme.git
 [submodule "public"]
