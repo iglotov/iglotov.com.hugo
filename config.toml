@@ -1,10 +1,11 @@
 baseURL = "https://iglotov.ru/"
 languageCode = "en-us"
 title = "Ilia Glotov"
-theme = "identity"
+theme = "hugo-identity-theme"
 
 # Disable unnecessary kinds
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+#disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 # Enter your tracking code to enable Google Analytics
 #googleAnalytics = "UA-163774673-1"
@@ -16,6 +17,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # change page's appearance
 
   # Site icons
+  description = "personal page"
+  name = "Ilia Glotov"
   favicon_ico = "favicon.ico"
   #favicon_ico_sizes = "16x16 32x32"
   favicon_ico_sizes = "16x16"
@@ -43,15 +46,20 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "System engineer (Linux)"
+    position = "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
     livesIn = "[Tbilisi, GE](https://goo.gl/maps/R7sZHhUzWJVw4ZJT9)"
     scope = [
-        "System engineer at [SoftSwiss](https://www.softswiss.com/)",
+        "System engineer at [SOFTSWISS](https://www.softswiss.com/)",
         "Proud [father of three](https://xkcd.com/674/)",
-        "&nbsp;",
-        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
+        "[Expat](https://xkcd.com/2347/), still whistling in the dark"
       ]
-    biography = """ """
+    biography = """I work as a full-time system engineer at [SOFTSWISS](https://www.softswiss.com/) now.
+    [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
+    I have a significant experience with Linux, various monitoring
+    and configuration management tools, and Linux servers/databases/web
+    apps troubleshooting. I previously worked as a DevOps engineer at [supl.biz (growing b2b marketplace)](https://supl.biz),
+    [cbr.ru (some uncommon bank)](https://cbr.ru), systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
+    and many more outstanding companies. And I am now searching for a new place to live with my family."""
 
   # Contact form settings
 
@@ -106,7 +114,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   [[params.social]]
     title = "Telegram"
     icon = "fa-paper-plane-o"
-    link = "https://t.me/iglotov"
+    link = "https://telegram.me/iglotov"
     #target = "_blank"
 
   #[[params.social]]
