@@ -7,7 +7,7 @@ theme = "identity"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-163774673-1"
+#googleAnalytics = "UA-163774673-1"
 
 [params]
   # Images settings
@@ -46,10 +46,10 @@ googleAnalytics = "UA-163774673-1"
     position = "server reboot engineer"
     livesIn = "[Tbilisi, GE](https://goo.gl/maps/R7sZHhUzWJVw4ZJT9)"
     scope = [
-        "DevOps engineer at [SoftSwiss](https://www.softswiss.com/)",
+        "System engineer at [SoftSwiss](https://www.softswiss.com/)",
         "Proud [father of three](https://xkcd.com/674/)",
-        "ex-volunteer at the [SAR Team \"LizaAlert\"](https://lizaalert.org)",
-        "expat [(fuck the war, by the way)](https://en.wikipedia.org/wiki/2022_anti-war_protests_in_Russia#\"No_to_war!\")"
+        "expat [![WBW Flag](White-blue-white_flag.svg \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)",
+        "ex-volunteer of the [SAR Team \"LizaAlert\"](https://lizaalert.org)"
       ]
     biography = """ """
 
@@ -116,12 +116,6 @@ googleAnalytics = "UA-163774673-1"
     #target = "_blank"
 
   [[params.social]]
-    title = "Github"
-    icon = "fa-github-square"
-    link = "https://github.com/iglotov"
-    #target = "_blank"
-
-  [[params.social]]
     title = "LinkedIn"
     icon = "fa-linkedin-square"
     link = "https://www.linkedin.com/in/iglotov/"
@@ -137,6 +131,18 @@ googleAnalytics = "UA-163774673-1"
   [params.footer]
     # If copyright is not set, author is used
     copyright = "Ilia Glotov"
+
+  [[params.social]]
+    title = "Github"
+    icon = "fa-github-square"
+    link = "https://github.com/iglotov"
+    #target = "_blank"
+
+  [[params.social]]
+    title = "GnuPG pubkeys"
+    icon = "fa-lock"
+    link = "https://github.com/iglotov.gpg"
+    #target = "_blank"
 
   # Page license
   [params.license]
