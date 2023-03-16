@@ -57,9 +57,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
     I have a significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
-    apps troubleshooting. I previously worked as a DevOps engineer at [supl.biz (growing b2b marketplace)](https://supl.biz),
-    [cbr.ru (some uncommon bank)](https://cbr.ru), systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
-    and many more outstanding companies. And I am now searching for a new place to live with my family."""
+    apps troubleshooting. I previously worked as a DevOps engineer at
+    [Vsemayki.ru (the great place to replace all this boring IT merch)](https://vsemayki.ru),
+    [supl.biz (growing b2b marketplace)](https://supl.biz), [cbr.ru (some uncommon bank)](https://cbr.ru),
+    systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
+    and many more outstanding companies. But now I am searching for a new place to live with my family."""
 
   # Contact form settings
 
