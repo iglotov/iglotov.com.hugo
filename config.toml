@@ -48,9 +48,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     scope = [
         "System engineer at [SoftSwiss](https://www.softswiss.com/)",
         "Proud [father of three](https://xkcd.com/674/)",
-        "expat",
-        "<kbd>[![WBW Flag](/images/icons/White-blue-white_flag.svg \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)</kbd>",
-        "ex-volunteer of the [SAR Team \"LizaAlert\"](https://lizaalert.org)"
+        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """ """
 
