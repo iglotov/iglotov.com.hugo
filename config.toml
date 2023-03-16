@@ -43,7 +43,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "server reboot engineer"
+    position = "System engineer (Linux)"
     livesIn = "[Tbilisi, GE](https://goo.gl/maps/R7sZHhUzWJVw4ZJT9)"
     scope = [
         "System engineer at [SoftSwiss](https://www.softswiss.com/)",
@@ -126,11 +126,6 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     link = "https://www.instagram.com/ilya.glotov/"
     #target = "_blank"
 
-  # Footer settings
-  [params.footer]
-    # If copyright is not set, author is used
-    copyright = "Ilia Glotov"
-
   [[params.social]]
     title = "Github"
     icon = "fa-github-square"
@@ -142,6 +137,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     icon = "fa-lock"
     link = "https://github.com/iglotov.gpg"
     #target = "_blank"
+
+  # Footer settings
+  [params.footer]
+    # If copyright is not set, author is used
+    copyright = "Ilia Glotov"
 
   # Page license
   [params.license]
