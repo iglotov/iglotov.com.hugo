@@ -47,9 +47,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
     position = "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
-    livesIn = "[Tbilisi, GE](https://goo.gl/maps/R7sZHhUzWJVw4ZJT9)"
+    livesIn = "[Novi Sad, SRB](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "System engineer at [SOFTSWISS](https://www.softswiss.com/)",
+        "Systems engineer at [SOFTSWISS](https://www.softswiss.com/)",
         "Proud [father of three](https://xkcd.com/674/)",
         "[Expat](https://xkcd.com/2347/), still whistling in the dark"
       ]
@@ -61,7 +61,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     [Vsemayki.ru (the great place to replace all this boring IT merch)](https://vsemayki.ru),
     [supl.biz (growing b2b marketplace)](https://supl.biz), [cbr.ru (some uncommon bank)](https://cbr.ru),
     systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
-    and many more outstanding companies. But now I am searching for a new place to live with my family."""
+    and many more outstanding companies. Seen some stuff."""
 
   # Contact form settings
 
