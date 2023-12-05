@@ -49,11 +49,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     position = "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
     livesIn = "[Novi Sad, SRB](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "Systems engineer at [SOFTSWISS](https://www.softswiss.com/)",
+        "I'm currently looking for a job as a Linux System Engineer (Middle/Senior) or SRE",
         "Proud [father of three](https://xkcd.com/674/)",
         "[Expat](https://xkcd.com/2347/), still whistling in the dark"
       ]
-    biography = """I work as a full-time system engineer at [SOFTSWISS](https://www.softswiss.com/) now.
+    biography = """I recently left the system engineer position at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
     I have a significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
