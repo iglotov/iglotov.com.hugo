@@ -114,12 +114,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
   # Social settings
   # You may change these with your social links or add others
 
-  [[params.social]]
-    title = "Telegram"
-    icon = "fa-paper-plane-o"
-    link = "https://telegram.me/iglotov"
-    #target = "_blank"
-
   #[[params.social]]
     #title = "Email"
     #icon = "fa-envelope-square"
@@ -133,9 +127,15 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     #target = "_blank"
 
   [[params.social]]
-    title = "Instagram"
-    icon = "fa-instagram"
-    link = "https://www.instagram.com/ilya.glotov/"
+    title = "GnuPG pubkeys"
+    icon = "fa-lock"
+    link = "https://github.com/iglotov.gpg"
+    #target = "_blank"
+
+  [[params.social]]
+    title = "Telegram"
+    icon = "fa-paper-plane-o"
+    link = "https://telegram.me/iglotov"
     #target = "_blank"
 
   [[params.social]]
@@ -145,9 +145,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     #target = "_blank"
 
   [[params.social]]
-    title = "GnuPG pubkeys"
-    icon = "fa-lock"
-    link = "https://github.com/iglotov.gpg"
+    title = "Instagram"
+    icon = "fa-instagram"
+    link = "https://www.instagram.com/ilya.glotov/"
     #target = "_blank"
 
   # Footer settings
