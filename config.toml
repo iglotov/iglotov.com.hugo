@@ -46,12 +46,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
-    livesIn = "[Novi Sad, SRB](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
+    position = "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer. I would appreciate your support."
+    livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer. I would appreciate your support.",
         "Proud [father of three](https://xkcd.com/674/)",
-        "[Expat](https://xkcd.com/2347/), still whistling in the dark"
+        "[Expat](https://xkcd.com/2347/) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark",
+        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """I recently quit the systems engineer position at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
