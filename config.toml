@@ -50,12 +50,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
         "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer.",
-        "[Expat](https://xkcd.com/2347/) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark",
-        "Proud [father of three](https://xkcd.com/674/)"
+        "[Expat](https://imgs.xkcd.com/comics/dependency.png) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark",
+        "Proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png)"
 #        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
-    biography = """I recently quit the systems engineer position at [SOFTSWISS](https://www.softswiss.com/).
-    [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
+    biography = """I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
+    [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
     I have significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
     apps troubleshooting. I previously worked as a DevOps engineer at
