@@ -49,14 +49,14 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     position = "Open to work"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer. I would appreciate your support.",
-        "Proud [father of three](https://xkcd.com/674/)",
-        "[Expat](https://xkcd.com/2347/) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dak",
+        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer.",
+        "[Expat](https://xkcd.com/2347/) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark",
+        "Proud [father of three](https://xkcd.com/674/)"
 #        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """I recently quit the systems engineer position at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://xkcd.com/1053/) (but systematic enough); a [security enthusiast](https://xkcd.com/538/);
-    I have a significant experience with Linux, various monitoring
+    I have significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
     apps troubleshooting. I previously worked as a DevOps engineer at
     [Vsemayki.ru (the great place to replace all this boring IT merch)](https://vsemayki.ru),
