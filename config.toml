@@ -49,7 +49,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     position = "Open to work"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my LinkedIn profile in the footer.",
+        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see my CV or LinkedIn profile in the footer.",
         "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark",
         "Proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png)"
 #        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
