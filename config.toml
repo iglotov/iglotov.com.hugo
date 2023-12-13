@@ -123,7 +123,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
   [[params.social]]
     title = "CV"
     icon = "fa-file-o"
-    link = "https://iglotov.ru/resume.pdf"
+    link = "https://iglotov.ru/Ilia_Glotov_DevOps_CV.pdf"
     #target = "_blank"
 
   [[params.social]]
