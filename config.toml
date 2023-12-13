@@ -121,6 +121,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
     #target = "_blank"
 
   [[params.social]]
+    title = "CV"
+    icon = "fa-file-o"
+    link = "https://iglotov.ru/resume.pdf"
+    #target = "_blank"
+
+  [[params.social]]
     title = "LinkedIn"
     icon = "fa-linkedin-square"
     link = "https://www.linkedin.com/in/iglotov/"
