@@ -8,8 +8,8 @@ theme = "hugo-identity-theme"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google Analytics
-#googleAnalytics = "UA-163774673-1"
-googleAnalytics = "G-97PFJE93Q5"
+googleAnalytics = "UA-163774673-1"
+#googleAnalytics = "G-97PFJE93Q5"
 
 [params]
   # Images settings
@@ -50,9 +50,8 @@ googleAnalytics = "G-97PFJE93Q5"
     position = "Open to work"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position.",
-        "Please see [my CV](https://iglotov.ru/Ilia_Glotov_DevOps_CV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/iglotov/).",
-        "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸), still whistling in the d; proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png)"
+        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see [my CV](https://iglotov.ru/Ilia_Glotov_DevOps_CV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/iglotov/).",
+        "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark; proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png)."
 #        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
