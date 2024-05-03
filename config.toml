@@ -50,10 +50,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     position = "DevOps Engineer"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).",
-        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
+        #"[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
-    biography = """I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
+    biography = """[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).
+    I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
     I have significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
