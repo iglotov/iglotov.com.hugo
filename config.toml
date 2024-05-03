@@ -1,4 +1,4 @@
-baseURL = "https://iglotov.ru/"
+baseURL = "https://iglotov.com/"
 languageCode = "en-us"
 title = "Ilia Glotov"
 theme = "hugo-identity-theme"
@@ -8,7 +8,7 @@ theme = "hugo-identity-theme"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-163774673-1"
+#googleAnalytics = "UA-163774673-1"
 #googleAnalytics = "G-97PFJE93Q5"
 
 [params]
@@ -47,12 +47,11 @@ googleAnalytics = "UA-163774673-1"
     name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "Open to work"
+    position = "DevOps Engineer"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        "I'm currently looking for a job as a Senior Linux Systems Engineer or an SRE/DevOps Engineer position. Please see [my CV](https://iglotov.ru/CV_DevOps_Ilia_Glotov.pdf) or [LinkedIn profile](https://www.linkedin.com/in/iglotov/).",
-        "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸), still whistling in the dark; proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png)."
-#        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
+        "[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).",
+        "[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
@@ -123,7 +122,7 @@ googleAnalytics = "UA-163774673-1"
   [[params.social]]
     title = "CV"
     icon = "fa-file-o"
-    link = "https://iglotov.ru/CV_DevOps_Ilia_Glotov.pdf"
+    link = "https://iglotov.com/CV_DevOps_Ilia_Glotov.pdf"
     #target = "_blank"
 
   [[params.social]]
@@ -139,7 +138,7 @@ googleAnalytics = "UA-163774673-1"
     #target = "_blank"
 
   [[params.social]]
-    title = "GnuPG pubkeys"
+    title = "GPG pubkey"
     icon = "fa-lock"
     link = "https://github.com/iglotov.gpg"
     #target = "_blank"
@@ -156,10 +155,10 @@ googleAnalytics = "UA-163774673-1"
     link = "https://github.com/iglotov"
     #target = "_blank"
 
-  [[params.social]]
-    title = "Instagram"
-    icon = "fa-instagram"
-    link = "https://www.instagram.com/ilya.glotov/"
+  #[[params.social]]
+    #title = "Instagram"
+    #icon = "fa-instagram"
+    #link = "https://www.instagram.com/ilya.glotov/"
     #target = "_blank"
 
   # Footer settings
