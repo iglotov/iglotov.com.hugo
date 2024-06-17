@@ -128,7 +128,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
   [[params.social]]
     title = "GPG pubkey"
     icon = "fa-lock"
-    link = "https://iglotov.com/pubkey.asc"
+    link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
     #target = "_blank"
 
   [[params.social]]
@@ -137,10 +137,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     link = "https://www.linkedin.com/in/iglotov/"
     #target = "_blank"
 
-  [[params.social]]
-    title = "Schedule a meeting"
-    icon = "fa-calendar"
-    link = "https://calendly.com/iglotov/30min"
+  #[[params.social]]
+    #title = "Schedule a meeting"
+    #icon = "fa-calendar"
+    #link = "https://calendly.com/iglotov/30min"
     #target = "_blank"
 
   [[params.social]]
@@ -172,12 +172,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     name = "CC-BY-SA-4.0"
 
   # Credits
-  [[params.credits]]
+  #[[params.credits]]
     # Title is used as URL text
-    title = "HTML5UP"
+    #title = "HTML5UP"
     # Text will be used to explain the credit
-    text = "Design by"
-    link = "https://html5up.net"
+    #text = "Design by"
+    #link = "https://html5up.net"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
