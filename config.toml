@@ -122,7 +122,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
   [[params.social]]
     title = "CV"
     icon = "fa-file-o"
-    link = "https://iglotov.com/CV_DevOps_Ilia_Glotov.pdf"
+    link = "https://iglotov.com/cv.pdf"
+    #target = "_blank"
+
+  [[params.social]]
+    title = "GPG pubkey"
+    icon = "fa-lock"
+    link = "https://iglotov.com/pubkey.asc"
     #target = "_blank"
 
   [[params.social]]
@@ -135,12 +141,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     title = "Schedule a meeting"
     icon = "fa-calendar"
     link = "https://calendly.com/iglotov/30min"
-    #target = "_blank"
-
-  [[params.social]]
-    title = "GPG pubkey"
-    icon = "fa-lock"
-    link = "https://github.com/iglotov.gpg"
     #target = "_blank"
 
   [[params.social]]
