@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/iglotov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iglotov.com
+  * I am iglotov (https://keybase.io/iglotov) on keybase.
+  * I have a public key ASAcPkjyqDqPdY7GtyM5HXovdyENO0r71gBadaH5HRXT7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c3e48f2a83a8f758ec6b723391d7a2f77210d3b4afbd6005a75a1f91d15d3ed0a",
+      "host": "keybase.io",
+      "kid": "01201c3e48f2a83a8f758ec6b723391d7a2f77210d3b4afbd6005a75a1f91d15d3ed0a",
+      "uid": "bfce82f3f6ead34f47e97adb7bb44c19",
+      "username": "iglotov"
+    },
+    "merkle_root": {
+      "ctime": 1718823488,
+      "hash": "33453a197437e819978f041f11e27074da8601da8ce91f856ad1730fa612573bb4b16c8db505c00ea35245ec1ac5e2e595c90ac8bf359fb1c2dfaa162c30fdcc",
+      "hash_meta": "88de8dba28ac456fa41e3e7175f8d3927440033b8ce662c3c815536f91526712",
+      "seqno": 25848669
+    },
+    "service": {
+      "entropy": "hO2/Te/jLVGVOVsTgXpJgIIe",
+      "hostname": "iglotov.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.0"
+  },
+  "ctime": 1718823566,
+  "expire_in": 504576000,
+  "prev": "5cde816e9e8fc931bd386fe2252f9e280b8aa29b0accfd7a5927e07c2606452c",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHD5I8qg6j3WOxrcjOR16L3chDTtK+9YAWnWh+R0V0+0Kp3BheWxvYWTESpcCBMQgXN6Bbp6PyTG9OG/iJS+eKAuKopsKzP16WSfgfCYGRSzEIL4jnp3bktFhkTy1Ts8Kd2bVF1FfayP7jGtHZRI5JUN0AgHCo3NpZ8RAVg+XJg6uziAGmDvX9lTV+TvWc3SqgcYK73/Oei+etzcmmc3FdgqNoUyT4I7FDrMueglcFJ3XuT+QHKCp3uk0AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINKaY36DDGCoa7qOToybuVMXyUorAhPVqQ3+xjHqeloXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iglotov
+
+==================================================================
