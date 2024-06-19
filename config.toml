@@ -127,13 +127,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
   [[params.social]]
     title = "GPG pubkey"
-    icon = "fa-lock"
+    icon = "fa-key"
     link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
     #target = "_blank"
 
   [[params.social]]
     title = "Keybase"
-    icon = "fa-keybase"
+    icon = "fa-lock"
     link = "https://keybase.io/iglotov"
     #target = "_blank"
 
