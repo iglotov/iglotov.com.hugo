@@ -132,6 +132,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #target = "_blank"
 
   [[params.social]]
+    title = "Keybase"
+    icon = "fa-brands fa-keybase"
+    link = "https://keybase.io/iglotov"
+    #target = "_blank"
+
+  [[params.social]]
     title = "LinkedIn"
     icon = "fa-linkedin-square"
     link = "https://www.linkedin.com/in/iglotov/"
