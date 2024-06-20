@@ -125,10 +125,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     link = "https://telegram.me/iglotov"
     #target = "_blank"
 
-  [[params.social]]
-    title = "Signal"
-    icon = "fa-comment"
-    link = "https://signal.me/#eu/OaxLT8h4r_2r3bGALEELyZ9fv_ZODhZeXbmZxNYu8RH7xGaAra1KhaLJS496_aMv"
+  #[[params.social]]
+    #title = "Signal"
+    #icon = "fa-comment"
+    #link = "https://signal.me/#eu/OaxLT8h4r_2r3bGALEELyZ9fv_ZODhZeXbmZxNYu8RH7xGaAra1KhaLJS496_aMv"
     #target = "_blank"
 
   [[params.social]]
@@ -137,10 +137,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     link = "https://keybase.io/iglotov"
     #target = "_blank"
 
-  [[params.social]]
-    title = "GPG pubkey"
-    icon = "fa-key"
-    link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
+  #[[params.social]]
+    #title = "GPG pubkey"
+    #icon = "fa-key"
+    #link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
     #target = "_blank"
 
   [[params.social]]
@@ -155,10 +155,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     link = "https://github.com/iglotov"
     #target = "_blank"
 
-  [[params.social]]
-    title = "CV"
-    icon = "fa-file-o"
-    link = "https://iglotov.com/cv.pdf"
+  #[[params.social]]
+    #title = "CV"
+    #icon = "fa-file-o"
+    #link = "https://iglotov.com/cv.pdf"
     #target = "_blank"
 
   #[[params.social]]
