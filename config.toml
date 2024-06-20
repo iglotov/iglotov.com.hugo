@@ -120,15 +120,15 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #target = "_blank"
 
   [[params.social]]
-    title = "CV"
-    icon = "fa-file-o"
-    link = "https://iglotov.com/cv.pdf"
+    title = "Telegram"
+    icon = "fa-paper-plane-o"
+    link = "https://telegram.me/iglotov"
     #target = "_blank"
 
   [[params.social]]
-    title = "GPG pubkey"
-    icon = "fa-key"
-    link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
+    title = "Signal"
+    icon = "fa-comment"
+    link = "https://signal.me/#eu/OaxLT8h4r_2r3bGALEELyZ9fv_ZODhZeXbmZxNYu8RH7xGaAra1KhaLJS496_aMv"
     #target = "_blank"
 
   [[params.social]]
@@ -138,27 +138,33 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #target = "_blank"
 
   [[params.social]]
-    title = "LinkedIn"
-    icon = "fa-linkedin-square"
-    link = "https://www.linkedin.com/in/iglotov/"
-    #target = "_blank"
-
-  #[[params.social]]
-    #title = "Schedule a meeting"
-    #icon = "fa-calendar"
-    #link = "https://calendly.com/iglotov/30min"
+    title = "GPG pubkey"
+    icon = "fa-key"
+    link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
     #target = "_blank"
 
   [[params.social]]
-    title = "Telegram"
-    icon = "fa-paper-plane-o"
-    link = "https://telegram.me/iglotov"
+    title = "LinkedIn"
+    icon = "fa-linkedin-square"
+    link = "https://www.linkedin.com/in/iglotov/"
     #target = "_blank"
 
   [[params.social]]
     title = "Github"
     icon = "fa-github-square"
     link = "https://github.com/iglotov"
+    #target = "_blank"
+
+  [[params.social]]
+    title = "CV"
+    icon = "fa-file-o"
+    link = "https://iglotov.com/cv.pdf"
+    #target = "_blank"
+
+  #[[params.social]]
+    #title = "Schedule a meeting"
+    #icon = "fa-calendar"
+    #link = "https://calendly.com/iglotov/30min"
     #target = "_blank"
 
   #[[params.social]]
