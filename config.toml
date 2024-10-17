@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
         #"[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
       ]
     biography = """[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).
-    I recently quit the [systems engineer](https://imgs.xkcd.com/comics/tools.png) position at [SOFTSWISS](https://www.softswiss.com/).
+    Former [systems engineer](https://imgs.xkcd.com/comics/tools.png) at [SOFTSWISS](https://www.softswiss.com/).
     [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
     I have significant experience with Linux, various monitoring
     and configuration management tools, and Linux servers/databases/web
@@ -120,30 +120,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #target = "_blank"
 
   [[params.social]]
-    title = "Telegram"
-    icon = "fa-paper-plane-o"
-    link = "https://telegram.me/iglotov"
-    #target = "_blank"
-
-  #[[params.social]]
-    #title = "Signal"
-    #icon = "fa-comment"
-    #link = "https://signal.me/#eu/OaxLT8h4r_2r3bGALEELyZ9fv_ZODhZeXbmZxNYu8RH7xGaAra1KhaLJS496_aMv"
-    #target = "_blank"
-
-  [[params.social]]
-    title = "Keybase"
-    icon = "fa-lock"
-    link = "https://keybase.io/iglotov"
-    #target = "_blank"
-
-  #[[params.social]]
-    #title = "GPG pubkey"
-    #icon = "fa-key"
-    #link = "https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x166af806b886af12"
-    #target = "_blank"
-
-  [[params.social]]
     title = "LinkedIn"
     icon = "fa-linkedin-square"
     link = "https://www.linkedin.com/in/iglotov/"
@@ -155,22 +131,46 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     link = "https://github.com/iglotov"
     #target = "_blank"
 
-  #[[params.social]]
-    #title = "CV"
-    #icon = "fa-file-o"
-    #link = "https://iglotov.com/cv.pdf"
+  [[params.social]]
+    title = "Schedule a meeting"
+    icon = "fa-calendar"
+    link = "https://calendly.com/iglotov/30min"
     #target = "_blank"
 
-  #[[params.social]]
-    #title = "Schedule a meeting"
-    #icon = "fa-calendar"
-    #link = "https://calendly.com/iglotov/30min"
+  [[params.social]]
+    title = "Telegram"
+    icon = "fa-paper-plane-o"
+    link = "https://telegram.me/iglotov"
     #target = "_blank"
 
   #[[params.social]]
     #title = "Instagram"
     #icon = "fa-instagram"
     #link = "https://www.instagram.com/ilya.glotov/"
+    #target = "_blank"
+
+  #[[params.social]]
+    #title = "Signal"
+    #icon = "fa-comment"
+    #link = "https://signal.me/#eu/OaxLT8h4r_2r3bGALEELyZ9fv_ZODhZeXbmZxNYu8RH7xGaAra1KhaLJS496_aMv"
+    #target = "_blank"
+
+  #[[params.social]]
+    #title = "Keybase"
+    #icon = "fa-lock"
+    #link = "https://keybase.io/iglotov"
+    #target = "_blank"
+
+  #[[params.social]]
+    #title = "GPG pubkey"
+    #icon = "fa-key"
+    #link = "https://github.com/iglotov.gpg"
+    #target = "_blank"
+
+  #[[params.social]]
+    #title = "CV"
+    #icon = "fa-file-o"
+    #link = "https://iglotov.com/cv.pdf"
     #target = "_blank"
 
   # Footer settings
