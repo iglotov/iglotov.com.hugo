@@ -134,7 +134,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
   [[params.social]]
     title = "Schedule a meeting"
     icon = "fa-calendar"
-    link = "https://calendly.com/iglotov/30min"
+    link = "https://zcal.co/iglotov"
     #target = "_blank"
 
   [[params.social]]
