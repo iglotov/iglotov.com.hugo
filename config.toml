@@ -49,7 +49,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     avatar = "iglotov.jpg"
     # position = "DevOps Engineer @ [Sxipher](https://sxipher.ai)"
     position = "DevOps | SRE"
-    livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
+    #livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
+    livesIn = ""
     scope = [
       "\u2022 [LinkedIn profile](https://www.linkedin.com/in/iglotov/)",
       "\u2022 [Telegram profile](https://telegram.me/iglotov)",
