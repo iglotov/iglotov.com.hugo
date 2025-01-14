@@ -47,7 +47,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     name = "Ilia Glotov"
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
-    position = "DevOps Engineer @ [Sxipher](https://sxipher.ai)"
+    # position = "DevOps Engineer @ [Sxipher](https://sxipher.ai)"
+    position = "SRE / DevOps Engineer"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
         #"[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
