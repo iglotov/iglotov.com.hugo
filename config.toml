@@ -1,4 +1,4 @@
-baseURL = "https://iglotov.com/"
+baseURL = "https://iglotov.com"
 languageCode = "en-us"
 title = "Ilia Glotov"
 theme = "hugo-identity-theme"
@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
   # change page's appearance
 
   # Site icons
-  description = "personal page"
+  description = "Personal page of Ilia Glotov, DevOps and System Reliability Engineer"
   name = "Ilia Glotov"
   favicon_ico = "favicon.ico"
   #favicon_ico_sizes = "16x16 32x32"
@@ -48,21 +48,25 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     # Avatars can be written to images/avatars/
     avatar = "iglotov.jpg"
     # position = "DevOps Engineer @ [Sxipher](https://sxipher.ai)"
-    position = "SRE / DevOps Engineer"
+    position = "DevOps | SRE"
     livesIn = "[Novi Sad, Serbia](https://maps.app.goo.gl/5aZKrqcaiZnKmiQdA)"
     scope = [
-        #"[![WBW Flag](/images/icons/White-blue-white_flag_w_border.png \"Fuck the war!\")](https://en.wikipedia.org/wiki/White-blue-white_flag)"
+      "\u2022 [LinkedIn profile](https://www.linkedin.com/in/iglotov/)",
+      "\u2022 [Telegram profile](https://telegram.me/iglotov)",
+      "\u2022 [Plan a meeting](https://zcal.co/iglotov)",
+      "\u2022 [GnuPG pubkey](https://github.com/iglotov.gpg)"
       ]
-    biography = """[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).
-    Former [systems engineer](https://imgs.xkcd.com/comics/tools.png) at [SOFTSWISS](https://www.softswiss.com/).
-    [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
-    I have significant experience with Linux, various monitoring
-    and configuration management tools, and Linux servers/databases/web
-    apps troubleshooting. I previously worked as a DevOps engineer at
-    [Vsemayki.ru (the great place to replace all this boring IT merch)](https://vsemayki.ru),
-    [supl.biz (growing b2b marketplace)](https://supl.biz), [cbr.ru (some uncommon bank)](https://cbr.ru),
-    systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
-    and many more outstanding companies. Seen some stuff."""
+    biography = ""
+#    biography = """[Expat](https://en.wikipedia.org/wiki/White-blue-white_flag) (🇷🇺→🇬🇪→🇷🇸); proud [father of three](https://imgs.xkcd.com/comics/natural_parenting.png).
+#    Former [systems engineer](https://imgs.xkcd.com/comics/tools.png) at [SOFTSWISS](https://www.softswiss.com/).
+#    [Fast learner](https://imgs.xkcd.com/comics/ten_thousand.png) (but systematic enough); a [security enthusiast](https://imgs.xkcd.com/comics/security.png);
+#    I have significant experience with Linux, various monitoring
+#    and configuration management tools, and Linux servers/databases/web
+#    apps troubleshooting. I previously worked as a DevOps engineer at
+#    [Vsemayki.ru (the great place to replace all this boring IT merch)](https://vsemayki.ru),
+#    [supl.biz (growing b2b marketplace)](https://supl.biz), [cbr.ru (some uncommon bank)](https://cbr.ru),
+#    systems administrator at [tsu.ru (cozy Siberian university)](https://tsu.ru),
+#    and other outstanding companies. Seen some stuff."""
 
   # Contact form settings
 
@@ -120,29 +124,29 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #link = "mailto:?to=writeme at iglotov.ru&subject=email from website&body=Please replace \" at \" with \"@\" in the recipient address. Thanks."
     #target = "_blank"
 
-  [[params.social]]
-    title = "LinkedIn"
-    icon = "fa-linkedin-square"
-    link = "https://www.linkedin.com/in/iglotov/"
-    #target = "_blank"
+#  [[params.social]]
+#    title = "LinkedIn"
+#    icon = "fa-linkedin-square"
+#    link = "https://www.linkedin.com/in/iglotov/"
+#    #target = "_blank"
 
-  [[params.social]]
-    title = "Github"
-    icon = "fa-github-square"
-    link = "https://github.com/iglotov"
-    #target = "_blank"
-
-  [[params.social]]
-    title = "Schedule a meeting"
-    icon = "fa-calendar"
-    link = "https://zcal.co/iglotov"
-    #target = "_blank"
-
-  [[params.social]]
-    title = "Telegram"
-    icon = "fa-paper-plane-o"
-    link = "https://telegram.me/iglotov"
-    #target = "_blank"
+#  [[params.social]]
+#    title = "Github"
+#    icon = "fa-github-square"
+#    link = "https://github.com/iglotov"
+#    #target = "_blank"
+#
+#  [[params.social]]
+#    title = "Schedule a meeting"
+#    icon = "fa-calendar"
+#    link = "https://zcal.co/iglotov"
+#    #target = "_blank"
+#
+#  [[params.social]]
+#    title = "Telegram"
+#    icon = "fa-paper-plane-o"
+#    link = "https://telegram.me/iglotov"
+#    #target = "_blank"
 
   #[[params.social]]
     #title = "Instagram"
@@ -162,11 +166,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     #link = "https://keybase.io/iglotov"
     #target = "_blank"
 
-  #[[params.social]]
-    #title = "GPG pubkey"
-    #icon = "fa-key"
-    #link = "https://github.com/iglotov.gpg"
-    #target = "_blank"
+#  [[params.social]]
+#    title = "GPG pubkey"
+#    icon = "fa-key"
+#    link = "https://github.com/iglotov.gpg"
+#    #target = "_blank"
 
   #[[params.social]]
     #title = "CV"
@@ -185,7 +189,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
     name = "CC-BY-SA-4.0"
 
   # Credits
-  #[[params.credits]]
+  # [[params.credits]]
+    enable = false
     # Title is used as URL text
     #title = "HTML5UP"
     # Text will be used to explain the credit

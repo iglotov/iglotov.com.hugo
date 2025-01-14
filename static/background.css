@@ -6,9 +6,9 @@ body {
     height: 100%;
     margin: 0;
     background-size: auto;
-    background-color: #aaaaaa;
-    background-image: url("images/overlay.png"), -moz-linear-gradient(0deg, rgba(250,215,160,1) 15%, rgba(174,214,241,1) 30%, rgba(16,128,185,1) 75%);
-    background-image: url("images/overlay.png"), -webkit-linear-gradient(0deg, rgba(250,215,160,1) 15%, rgba(174,214,241,1) 30%, rgba(16,128,185,1) 75%);
-    background-image: url("images/overlay.png"), -ms-linear-gradient(0deg, rgba(250,215,160,1) 15%, rgba(174,214,241,1) 30%, rgba(16,128,185,1) 75%);
-    background-image: url("images/overlay.png"), linear-gradient(0deg, rgba(250,215,160,1) 15%, rgba(174,214,241,1) 30%, rgba(16,128,185,1) 75%);
+    background-color: #ffffff;
+    background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(0, 180, 200, 0.5) 20%, rgba(150, 70, 190, 0.4));
+    background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(0, 180, 200, 0.5) 20%, rgba(150, 70, 190, 0.4));
+    background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(0, 180, 200, 0.5) 20%, rgba(150, 70, 190, 0.4));
+    background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(0, 180, 200, 0.5) 20%, rgba(150, 70, 190, 0.4));
 }
